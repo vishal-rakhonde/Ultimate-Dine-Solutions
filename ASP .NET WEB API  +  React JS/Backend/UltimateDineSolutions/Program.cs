@@ -1,135 +1,15 @@
-/*
-using Microsoft.EntityFrameworkCore;
-using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
-using UltimateDineSolutions.Data;
-
-var builder = WebApplication.CreateBuilder(args);
-
-// Configure services
-builder.Services.AddCors(options =>
-{
-    options.AddPolicy("AllowAllOrigins",
-        policyBuilder =>
-        {
-            policyBuilder.AllowAnyOrigin()
-                        .AllowAnyMethod()
-                        .AllowAnyHeader();
-        });
-});
-
-builder.Services.AddControllers();
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-
-// Add DbContext with MySQL configuration
-builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseMySql(
-        builder.Configuration.GetConnectionString("DefaultConnection"),
-        new MySqlServerVersion(new Version(8, 0, 24)) // Adjust this to match your MySQL version
-    )
-);
-
-// Build the application
-var app = builder.Build();
-
-// Configure the HTTP request pipeline
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
-
-// Uncomment this if HTTPS is required
-// app.UseHttpsRedirection();
-
-app.UseCors("AllowAllOrigins"); // Use the CORS policy
-
-app.UseAuthorization();
-
-app.MapControllers();
-
-app.Run();
-
-
-*//*
-using Microsoft.EntityFrameworkCore;
-using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
-using UltimateDineSolutions.Data;
-using BCrypt.Net;
-using System.Configuration;
-
-var builder = WebApplication.CreateBuilder(args);
-
-// Configure services
-builder.Services.AddCors(options =>
-{
-    options.AddPolicy("AllowAllOrigins",
-        policyBuilder =>
-        {
-            policyBuilder.AllowAnyOrigin()
-                        .AllowAnyMethod()
-                        .AllowAnyHeader();
-        });
-});
-
-builder.Services.AddControllers();
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-
-// Add DbContext with MySQL configuration
-builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseMySql(
-        builder.Configuration.GetConnectionString("DefaultConnection"),
-        new MySqlServerVersion(new Version(8, 0, 24))
-    )
-);
-
-
-    // If needed, you can register BCrypt as a service (although it's typically not required)
-    // For example, you could create a service that handles hashing, and register it here
-    // builder.Services.AddSingleton<IPasswordHasher, BCryptPasswordHasher>();
-
-    var app = builder.Build();
-
-// Configure the HTTP request pipeline
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
-
-// Uncomment this if HTTPS is required
-// app.UseHttpsRedirection();
-
-app.UseCors("AllowAllOrigins"); // Use the CORS policy
-
-app.UseAuthorization();
-
-app.MapControllers();
-
-app.Run();
-*/
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
 using System.Text;
 using UltimateDineSolutions.Data;
+using UltimateDineSolutions.Services; // Add this namespace for services
+using UltimateDineSolutions.Models; // Add this namespace if User model is in Models
 
 var builder = WebApplication.CreateBuilder(args);
 
-/*// Configure services
-builder.Services.AddCors(options =>
-{
-    options.AddPolicy("AllowAllOrigins",
-        policyBuilder =>
-        {
-            policyBuilder.AllowAnyOrigin()
-                        .AllowAnyMethod()
-                        .AllowAnyHeader();
-        });
-});*/
-// Configure services
+// Configure CORS
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowSpecificOrigin",
@@ -142,6 +22,7 @@ builder.Services.AddCors(options =>
         });
 });
 
+// Add controllers and Swagger
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -153,6 +34,12 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
         new MySqlServerVersion(new Version(8, 0, 24)) // Adjust this to match your MySQL version
     )
 );
+
+// Register IAdminService with its implementation
+builder.Services.AddScoped<IAdminService, AdminService>(); // Ensure this line is added
+
+// Register IUserService with its implementation
+builder.Services.AddScoped<IUserService, UserService>(); // Add this line
 
 // Configure JWT authentication
 builder.Services.AddAuthentication(options =>
@@ -174,6 +61,7 @@ builder.Services.AddAuthentication(options =>
     };
 });
 
+// Add authorization
 builder.Services.AddAuthorization();
 
 var app = builder.Build();
@@ -186,11 +74,9 @@ if (app.Environment.IsDevelopment())
 }
 
 // Uncomment this if HTTPS is required
- app.UseHttpsRedirection();
+app.UseHttpsRedirection();
 
-//app.UseCors("AllowAllOrigins"); // Use the CORS policy
-
-app.UseCors("AllowSpecificOrigin");
+app.UseCors("AllowSpecificOrigin"); // Use the CORS policy
 
 app.UseAuthentication(); // Use authentication middleware
 app.UseAuthorization();  // Use authorization middleware
