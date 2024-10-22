@@ -15,6 +15,8 @@ namespace UltimateDineSolutions.Data
         //public DbSet<Order> Orders { get; set; }
         //public DbSet<FoodItem> FoodItems { get; set; }
         //public DbSet<OrderDetailsItem> OrderDetailsItems { get; set; }
+        //public DbSet<Usermaster> Usermaster { get; set; }
+        public DbSet<Admin> Admin { get; set; }
         public DbSet<OrderDetails> OrderDetails { get; set; }
         public DbSet<FoodItem> FoodItems { get; set; }
         public DbSet<OrderDetailsItem> OrderDetailsItems { get; set; }
