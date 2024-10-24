@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|f:\\github repositories\\ultimate-dine-solutions\\asp .net web api  \u002B  react js\\backend\\ultimatedinesolutions\\ultimatedinesolutions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|solutionrelative:ultimatedinesolutions\\ultimatedinesolutions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|f:\\github repositories\\ultimate-dine-solutions\\asp .net web api  \u002B  react js\\backend\\ultimatedinesolutions\\ultimatedinesolutions.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|solutionrelative:ultimatedinesolutions\\ultimatedinesolutions.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|f:\\github repositories\\ultimate-dine-solutions\\asp .net web api  \u002B  react js\\backend\\ultimatedinesolutions\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|solutionrelative:ultimatedinesolutions\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|f:\\github repositories\\ultimate-dine-solutions\\asp .net web api  \u002B  react js\\backend\\ultimatedinesolutions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|solutionrelative:ultimatedinesolutions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|f:\\github repositories\\ultimate-dine-solutions\\asp .net web api  \u002B  react js\\backend\\ultimatedinesolutions\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|solutionrelative:ultimatedinesolutions\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|f:\\github repositories\\ultimate-dine-solutions\\asp .net web api  \u002B  react js\\backend\\ultimatedinesolutions\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|solutionrelative:ultimatedinesolutions\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|f:\\github repositories\\ultimate-dine-solutions\\asp .net web api  \u002B  react js\\backend\\ultimatedinesolutions\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|solutionrelative:ultimatedinesolutions\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|f:\\github repositories\\ultimate-dine-solutions\\asp .net web api  \u002B  react js\\backend\\ultimatedinesolutions\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|solutionrelative:ultimatedinesolutions\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|f:\\github repositories\\ultimate-dine-solutions\\asp .net web api  \u002B  react js\\backend\\ultimatedinesolutions\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|solutionrelative:ultimatedinesolutions\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|f:\\github repositories\\ultimate-dine-solutions\\asp .net web api  \u002B  react js\\backend\\ultimatedinesolutions\\models\\superadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|solutionrelative:ultimatedinesolutions\\models\\superadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|f:\\github repositories\\ultimate-dine-solutions\\asp .net web api  \u002B  react js\\backend\\ultimatedinesolutions\\models\\usermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|solutionrelative:ultimatedinesolutions\\models\\usermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|f:\\github repositories\\ultimate-dine-solutions\\asp .net web api  \u002B  react js\\backend\\ultimatedinesolutions\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|solutionrelative:ultimatedinesolutions\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|f:\\github repositories\\ultimate-dine-solutions\\asp .net web api  \u002B  react js\\backend\\ultimatedinesolutions\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|solutionrelative:ultimatedinesolutions\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|f:\\github repositories\\ultimate-dine-solutions\\asp .net web api  \u002B  react js\\backend\\ultimatedinesolutions\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|solutionrelative:ultimatedinesolutions\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|f:\\github repositories\\ultimate-dine-solutions\\asp .net web api  \u002B  react js\\backend\\ultimatedinesolutions\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|solutionrelative:ultimatedinesolutions\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|f:\\github repositories\\ultimate-dine-solutions\\asp .net web api  \u002B  react js\\backend\\ultimatedinesolutions\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0275BD1-28C4-4C5C-8218-4C3BF40CB1AF}|UltimateDineSolutions\\UltimateDineSolutions.csproj|solutionrelative:ultimatedinesolutions\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UltimateDineSolutions",
+              "DocumentMoniker": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\UltimateDineSolutions.csproj",
+              "RelativeDocumentMoniker": "UltimateDineSolutions\\UltimateDineSolutions.csproj",
+              "ToolTip": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\UltimateDineSolutions.csproj",
+              "RelativeToolTip": "UltimateDineSolutions\\UltimateDineSolutions.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T12:56:28.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "UltimateDineSolutions\\Models\\Payment.cs",
+              "ToolTip": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Models\\Payment.cs",
+              "RelativeToolTip": "UltimateDineSolutions\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:56:00.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "UltimateDineSolutions\\Services\\UserService.cs",
+              "ToolTip": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Services\\UserService.cs",
+              "RelativeToolTip": "UltimateDineSolutions\\Services\\UserService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:09:49.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "UltimateDineSolutions\\Services\\IUserService.cs",
+              "ToolTip": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Services\\IUserService.cs",
+              "RelativeToolTip": "UltimateDineSolutions\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:07:56.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "user.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Models\\user.cs",
+              "RelativeDocumentMoniker": "UltimateDineSolutions\\Models\\user.cs",
+              "ToolTip": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Models\\user.cs",
+              "RelativeToolTip": "UltimateDineSolutions\\Models\\user.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:02:52.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "UltimateDineSolutions\\Controllers\\AdminController.cs",
+              "ToolTip": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "UltimateDineSolutions\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAA/wPYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T17:52:58.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UltimateDineSolutions.csproj",
+              "DocumentMoniker": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\UltimateDineSolutions.csproj",
+              "RelativeDocumentMoniker": "UltimateDineSolutions\\UltimateDineSolutions.csproj",
+              "ToolTip": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\UltimateDineSolutions.csproj",
+              "RelativeToolTip": "UltimateDineSolutions\\UltimateDineSolutions.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-12T17:58:43.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UltimateDineSolutions\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UltimateDineSolutions\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:11:24.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "UltimateDineSolutions\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "UltimateDineSolutions\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:14:04.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Program.cs",
+              "RelativeDocumentMoniker": "UltimateDineSolutions\\Program.cs",
+              "ToolTip": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Program.cs",
+              "RelativeToolTip": "UltimateDineSolutions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:06:28.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SuperAdmin.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Models\\SuperAdmin.cs",
+              "RelativeDocumentMoniker": "UltimateDineSolutions\\Models\\SuperAdmin.cs",
+              "ToolTip": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Models\\SuperAdmin.cs",
+              "RelativeToolTip": "UltimateDineSolutions\\Models\\SuperAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:58:21.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "UltimateDineSolutions\\Models\\Admin.cs",
+              "ToolTip": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Models\\Admin.cs",
+              "RelativeToolTip": "UltimateDineSolutions\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:07:56.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "UltimateDineSolutions\\Services\\AdminService.cs",
+              "ToolTip": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Services\\AdminService.cs",
+              "RelativeToolTip": "UltimateDineSolutions\\Services\\AdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:58:40.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usermaster.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Models\\Usermaster.cs",
+              "RelativeDocumentMoniker": "UltimateDineSolutions\\Models\\Usermaster.cs",
+              "ToolTip": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Models\\Usermaster.cs",
+              "RelativeToolTip": "UltimateDineSolutions\\Models\\Usermaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:13:10.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Services\\IAdminService.cs",
+              "RelativeDocumentMoniker": "UltimateDineSolutions\\Services\\IAdminService.cs",
+              "ToolTip": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\Services\\IAdminService.cs",
+              "RelativeToolTip": "UltimateDineSolutions\\Services\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:00:18.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\appsettings.json",
+              "RelativeDocumentMoniker": "UltimateDineSolutions\\appsettings.json",
+              "ToolTip": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  \u002B  React JS\\Backend\\UltimateDineSolutions\\appsettings.json",
+              "RelativeToolTip": "UltimateDineSolutions\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T17:53:38.418Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

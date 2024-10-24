@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\SB\\UltimateDineSolutions\\UltimateDineSolutions\\UltimateDineSolutions.csproj": {}
+    "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  +  React JS\\Backend\\UltimateDineSolutions\\UltimateDineSolutions.csproj": {}
   },
   "projects": {
-    "F:\\SB\\UltimateDineSolutions\\UltimateDineSolutions\\UltimateDineSolutions.csproj": {
+    "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  +  React JS\\Backend\\UltimateDineSolutions\\UltimateDineSolutions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\SB\\UltimateDineSolutions\\UltimateDineSolutions\\UltimateDineSolutions.csproj",
+        "projectUniqueName": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  +  React JS\\Backend\\UltimateDineSolutions\\UltimateDineSolutions.csproj",
         "projectName": "UltimateDineSolutions",
-        "projectPath": "F:\\SB\\UltimateDineSolutions\\UltimateDineSolutions\\UltimateDineSolutions.csproj",
+        "projectPath": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  +  React JS\\Backend\\UltimateDineSolutions\\UltimateDineSolutions.csproj",
         "packagesPath": "C:\\Users\\rakho\\.nuget\\packages\\",
-        "outputPath": "F:\\SB\\UltimateDineSolutions\\UltimateDineSolutions\\obj\\",
+        "outputPath": "F:\\GitHub Repositories\\Ultimate-Dine-Solutions\\ASP .NET WEB API  +  React JS\\Backend\\UltimateDineSolutions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rakho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -120,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
