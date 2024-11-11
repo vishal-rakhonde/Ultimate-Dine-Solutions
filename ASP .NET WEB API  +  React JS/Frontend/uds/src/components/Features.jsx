@@ -71,5 +71,4 @@ const Features = () => {
     </Container>
   );
 }
-
 export default Features;
