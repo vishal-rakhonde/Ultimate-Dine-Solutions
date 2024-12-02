@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UltimateDineSolutions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a14e0cda3d4ba6fce406f9b6023152c7730499d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fbd69335c804e355eaa9cdc3587bb5fd42ff828")]
 [assembly: System.Reflection.AssemblyProductAttribute("UltimateDineSolutions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UltimateDineSolutions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
